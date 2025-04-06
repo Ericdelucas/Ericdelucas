@@ -1,6 +1,9 @@
-##Eric De Lucas
+# 👨🏾‍💻 Eric De Lucas
 
-### 🤖 Linguagens
+**`Desenvolvedora FullStack`**
+
+Me chamo Eric De Lucas, tenho 19 anos e sou de São Paulo. Concluí o ensino médio na Fecap, com o curso técnico em Inteligencia Artificial. Atualmente, estou cursando Ciencias da computação na Fecap. 
+#🤖Linguagens
 
 <img 
     align="left" 
