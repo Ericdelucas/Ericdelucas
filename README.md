@@ -92,7 +92,7 @@ My name is Eric De Lucas, I am 19 years old and I am from São Paulo. I complete
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ericdelucas&show_icons=true&bg_color=000000&title_color=4682B4&text_color=4682B4&icon_color=4682B4&include_all_commits=true&locale=en" />
       </a>
 </td>
-    <td width="50%">
+<td width="50%">
       <a href="https://github.com/Ericdelucas">
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ericdelucas&bg_color=000000&title_color=4682B4&text_color=4682B4&icon_color=4682B4&layout=compact&custom_title=Technologies&langs_count=9" />
       </a>
