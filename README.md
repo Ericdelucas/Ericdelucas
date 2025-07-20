@@ -7,6 +7,7 @@ My name is Eric De Lucas, I am 19 years old and I am from São Paulo. I complete
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eric-de-lucas-silva-902589265/?originalSubdomain=br) 
 [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=red)](mailto:ericdelucass@gmail.com) 
 
+
 ### 🤖 Languages and Technologies
 
 <img 
