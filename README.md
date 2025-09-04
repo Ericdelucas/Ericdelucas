@@ -66,6 +66,14 @@ My name is Eric De Lucas, I am 19 years old and I am from São Paulo. I complete
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
 />
+<img 
+    align="left" 
+    alt="React" 
+    title="React" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" 
+/>
 
 <br/>
 <br/>
