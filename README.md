@@ -88,6 +88,7 @@ My name is Eric De Lucas, I am 19 years old and I am from São Paulo. I complete
 ![Colab](https://img.shields.io/badge/-Google%20Colab-333?style=for-the-badge&logo=googlecolab&logoColor=yellow)
 ![Unity](https://img.shields.io/badge/-Unity-333?style=for-the-badge&logo=unity)
 ![Arduino](https://img.shields.io/badge/-Arduino-333?style=for-the-badge&logo=arduino&logoColor=teal)
+![MySQL Workbench](https://img.shields.io/badge/-MySQL_Workbench-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
 
 ---
