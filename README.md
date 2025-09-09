@@ -93,10 +93,13 @@ My name is Eric De Lucas, I am 19 years old and I am from São Paulo. I complete
 
 ---
 
+
+
 ### 📊 GitHub Stats
 
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Ericdelucas&theme=dark&date_format=j%2Fn%5B%2FY%5D&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat" alt="GitHub Streak" /></a>
 
-  <tr>
+<tr>
     <td width="50%">
       <a href="https://github.com/Ericdelucas">
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ericdelucas&show_icons=true&bg_color=000000&title_color=4682B4&text_color=4682B4&icon_color=4682B4&include_all_commits=true&locale=en" />
