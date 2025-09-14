@@ -97,9 +97,9 @@ My name is Eric De Lucas, I am 19 years old and I am from São Paulo. I complete
 
 ### 📊 GitHub Stats
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Ericdelucas&theme=dark&date_format=j%2Fn%5B%2FY%5D&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat" alt="GitHub Streak" /></a>
+<div align="center">
 
-<tr>
+<!-- <tr>
     <td width="50%">
       <a href="https://github.com/Ericdelucas">
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ericdelucas&show_icons=true&bg_color=000000&title_color=4682B4&text_color=4682B4&icon_color=4682B4&include_all_commits=true&locale=en" />
@@ -110,7 +110,27 @@ My name is Eric De Lucas, I am 19 years old and I am from São Paulo. I complete
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ericdelucas&bg_color=000000&title_color=4682B4&text_color=4682B4&icon_color=4682B4&layout=compact&custom_title=Technologies&langs_count=9" />
       </a>
     </td>
-  </tr>
+  </tr> -->
+
+
+
+  <div style="display:inline-block">
+    <a href="https://github.com/Ericdelucas">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ericdelucas&bg_color=000000&show_icons=true&theme=cobalt&title_color=4682B4&text_color=4682B4&icon_color=4682B4"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ericdelucas&bg_color=000000&layout=compact&theme=cobalt&title_color=4682B4&text_color=4682B4&icon_color=4682B4"/>
+    </a>  
+  </div>
+
+
+
+  <a href="https://git.io/streak-stats">
+    <img 
+      src="https://github-readme-streak-stats.herokuapp.com?user=Ericdelucas&date_format=j%2Fn%5B%2FY%5D&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat&background=000000&ring=4682B4&fire=4682B4&currStreakLabel=4682B4&sideLabels=4682B4&dates=4682B4&stroke=4682B4&currStreakNum=4682B4&sideNums=4682B4" 
+      alt="GitHub Streak" 
+    />
+  </a>
+
+
 
 
 ---
@@ -120,3 +140,4 @@ My name is Eric De Lucas, I am 19 years old and I am from São Paulo. I complete
     height="300" 
     alt="Activity Graph" 
 />
+</div>
