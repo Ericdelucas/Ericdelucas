@@ -6,9 +6,13 @@ My name is Eric De Lucas, I am 19 years old and I am from São Paulo. I complete
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eric-de-lucas-silva-902589265/?originalSubdomain=br) 
 [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=red)](mailto:ericdelucass@gmail.com) 
+<a href="https://github.com/Ericdelucas" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 
 
-### 🤖 Languages and Technologies
+<details>
+<summary><strong>🤖 Languages and Technologies</strong></summary>
 
 <img 
     align="left" 
@@ -66,6 +70,19 @@ My name is Eric De Lucas, I am 19 years old and I am from São Paulo. I complete
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
 />
+
+
+<br/>
+<br/>
+
+</details>
+
+---
+
+
+<details>
+<summary><strong>📚 Frameworks & Libraries</strong></summary>
+
 <img 
     align="left" 
     alt="React" 
@@ -75,21 +92,165 @@ My name is Eric De Lucas, I am 19 years old and I am from São Paulo. I complete
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" 
 />
 
+<img 
+    align="left" 
+    alt="Node" 
+    title="Node" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://skillicons.dev/icons?i=nodejs" 
+/>
+
+
+
 <br/>
 <br/>
+    
+</details>
+
 
 ---
 
-#### ⚙️ Tools & Platforms
+<details>
+<summary><strong>⚙️ Tools & Platforms</strong></summary>
 
-![VSCode](https://img.shields.io/badge/-VSCode-333?style=for-the-badge&logo=visualstudiocode)
-![PyCharm](https://img.shields.io/badge/-PyCharm-333?style=for-the-badge&logo=pycharm&logoColor=yellow)
-![Jupyter](https://img.shields.io/badge/-Jupyter-333?style=for-the-badge&logo=jupyter&logoColor=orange)
-![Colab](https://img.shields.io/badge/-Google%20Colab-333?style=for-the-badge&logo=googlecolab&logoColor=yellow)
-![Unity](https://img.shields.io/badge/-Unity-333?style=for-the-badge&logo=unity)
-![Arduino](https://img.shields.io/badge/-Arduino-333?style=for-the-badge&logo=arduino&logoColor=teal)
-![MySQL Workbench](https://img.shields.io/badge/-MySQL_Workbench-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+<img 
+    align="left" 
+    alt="VSCode" 
+    title="Visual Studio Code" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" 
+/>
 
+<img 
+    align="left" 
+    alt="PyCharm" 
+    title="PyCharm" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Jupyter" 
+    title="Jupyter Notebook" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Google Colab" 
+    title="Google Colab" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Unity" 
+    title="Unity" 
+    width="30px" 
+    style="padding-right: 10px; background-color: white; border-radius: 6px; padding: 4px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Arduino" 
+    title="Arduino" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="GitHub" 
+    title="GitHub" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png" 
+/>
+
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
+/>
+
+<!-- Docker -->
+<img 
+  align="left"
+  alt="Docker"
+  title="Docker"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
+/>
+
+<!-- Postman -->
+<img 
+  align="left"
+  alt="Postman"
+  title="Postman"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg"
+/>
+
+
+
+<br>
+</details>
+
+---
+
+<details>
+<summary><strong>☁️ Cloud & Providers</strong></summary>
+
+<div align="left">
+
+<!-- AWS -->
+<img 
+  align="left"
+  alt="AWS"
+  title="Amazon Web Services"
+  width="30px"
+  style="padding-right: 10px; background-color: white; border-radius: 6px; padding: 4px;"
+  src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/amazonaws.svg"
+/>
+
+<!-- Azure -->
+<img 
+  align="left"
+  alt="Azure"
+  title="Microsoft Azure"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"
+/>
+
+<!-- MongoDB -->
+<img 
+  align="left"
+  alt="MongoDB"
+  title="MongoDB"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
+/>
+<br>
+</div>
+
+
+</details>
 
 ---
 
@@ -130,9 +291,6 @@ My name is Eric De Lucas, I am 19 years old and I am from São Paulo. I complete
     />
   </a>
 
-
-
-
 ---
 
 <img 
@@ -141,3 +299,20 @@ My name is Eric De Lucas, I am 19 years old and I am from São Paulo. I complete
     alt="Activity Graph" 
 />
 </div>
+
+
+---
+
+
+<details>
+<summary><strong>Top Repositories</strong></summary>
+
+<a href="https://github.com/Ericdelucas/ESC_Semestre2_PI">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ericdelucas&repo=ESC_Semestre2_PI&theme=cobalt&bg_color=000000&title_color=4682B4&text_color=4682B4&icon_color=4682B4" />
+</a>
+
+</details>
+
+
+
+ 
