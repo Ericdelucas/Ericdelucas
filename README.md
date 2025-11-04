@@ -167,14 +167,14 @@ My name is Eric De Lucas, I am 19 years old and I am from São Paulo. I complete
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" 
 />
-<img 
+<!-- <img 
     align="left" 
     alt="GitHub" 
     title="GitHub" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png" 
-/>
+/> -->
 
 <img 
     align="left" 
@@ -204,6 +204,16 @@ My name is Eric De Lucas, I am 19 years old and I am from São Paulo. I complete
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg"
 />
+
+<img 
+    align="left" 
+    alt="Figma" 
+    title="Figma" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" 
+/>
+
 
 
 
