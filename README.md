@@ -23,12 +23,12 @@ My name is Eric De Lucas, I am 19 years old and I am from São Paulo. I complete
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
 />
 <img 
-    align="left" 
-    alt="SQL" 
-    title="SQL" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" 
+  align="left" 
+  alt="MySQL" 
+  title="MySQL" 
+  width="30px" 
+  style="padding-right: 10px; background-color: white; border-radius: 6px; padding: 4px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" 
 />
 <img 
     align="left" 
@@ -149,6 +149,8 @@ My name is Eric De Lucas, I am 19 years old and I am from São Paulo. I complete
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" 
 />
+
+
 
 <img 
     align="left" 
