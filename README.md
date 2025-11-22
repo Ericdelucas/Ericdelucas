@@ -6,9 +6,6 @@ My name is Eric De Lucas, I am 19 years old and I am from São Paulo. I complete
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eric-de-lucas-silva-902589265/?originalSubdomain=br) 
 [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=red)](mailto:ericdelucass@gmail.com) 
-<a href="https://github.com/Ericdelucas" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
 
 
 <details>
@@ -272,25 +269,12 @@ My name is Eric De Lucas, I am 19 years old and I am from São Paulo. I complete
 
 <div align="center">
 
-<!-- <tr>
-    <td width="50%">
-      <a href="https://github.com/Ericdelucas">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ericdelucas&show_icons=true&bg_color=000000&title_color=4682B4&text_color=4682B4&icon_color=4682B4&include_all_commits=true&locale=en" />
-      </a>
-</td>
-<td width="50%">
-      <a href="https://github.com/Ericdelucas">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ericdelucas&bg_color=000000&title_color=4682B4&text_color=4682B4&icon_color=4682B4&layout=compact&custom_title=Technologies&langs_count=9" />
-      </a>
-    </td>
-  </tr> -->
-
 
 
   <div style="display:inline-block">
     <a href="https://github.com/Ericdelucas">
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ericdelucas&bg_color=000000&show_icons=true&theme=cobalt&title_color=4682B4&text_color=4682B4&icon_color=4682B4"/>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ericdelucas&bg_color=000000&layout=compact&theme=cobalt&title_color=4682B4&text_color=4682B4&icon_color=4682B4"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ericdelucas&bg_color=000000&layout=compact&theme=cobalt&title_color=4682B4&text_color=4682B4&icon_color=4682B4&hide=cpp,c++,c,cython,fortran,meson,powershell,"/>
     </a>  
   </div>
 
