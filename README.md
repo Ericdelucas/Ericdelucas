@@ -285,11 +285,11 @@ My name is Eric De Lucas, I am 20 years old and I am from São Paulo. I complete
       src="https://github-readme-streak-stats.herokuapp.com?user=Ericdelucas&date_format=j%2Fn%5B%2FY%5D&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat&background=000000&ring=4682B4&fire=4682B4&currStreakLabel=4682B4&sideLabels=4682B4&dates=4682B4&stroke=4682B4&currStreakNum=4682B4&sideNums=4682B4" 
       alt="GitHub Streak" 
     />
-      <img
+      <!-- <img
       height="180em"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ericdelucas&layout=compact&theme=cobalt&bg_color=000000&title_color=4682B4&text_color=4682B4&icon_color=4682B4&langs_count=10&hide=cpp,c%2B%2B,c,cython,fortran,meson,powershell&v=2"
     />
-  </a>
+  </a> -->
 
 
 
