@@ -268,8 +268,8 @@ My name is Eric De Lucas, I am 20 years old and I am from São Paulo. I complete
 
 ### 📊 GitHub Stats
 
+<!--
 <div align="center">
-
 
 
   <div style="display:inline-block">
@@ -289,9 +289,9 @@ My name is Eric De Lucas, I am 20 years old and I am from São Paulo. I complete
 
 
 
-
 ---
 
+-->
 <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=Ericdelucas&bg_color=000000&color=4682B4&line=4682B4&point=4682B4&area=true&hide_border=false" 
     height="300" 
@@ -299,9 +299,8 @@ My name is Eric De Lucas, I am 20 years old and I am from São Paulo. I complete
 />
 </div>
 
-
+<!--
 ---
-
 
 <details>
 <summary><strong>Top Repositories</strong></summary>
@@ -313,6 +312,7 @@ My name is Eric De Lucas, I am 20 years old and I am from São Paulo. I complete
 </details>
 
 
+-->
 
 
 
