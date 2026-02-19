@@ -132,6 +132,15 @@ My name is Eric De Lucas, I am 20 years old and I am from São Paulo. I complete
 
 <img 
     align="left" 
+    alt="Visual Studio" 
+    title="Visual Studio" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" 
+/>
+
+<img 
+    align="left" 
     alt="PyCharm" 
     title="PyCharm" 
     width="30px" 
@@ -323,6 +332,57 @@ My name is Eric De Lucas, I am 20 years old and I am from São Paulo. I complete
 
 -->
 
-
-
- 
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <a href="https://github.com/Ericdelucas/Inicia-o_Cientifica_BigData_and_DataScience">
+          <table border="1" cellspacing="0" cellpadding="10" style="border-collapse: collapse; border: 2px solid #E65100; border-radius: 10px; background-color: #0d1117; width: 320px; height: 180px;">
+            <tr>
+              <td align="left">
+                <img align="right" src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="40" />
+                <strong style="color: #E65100; font-size: 1.1em;">Iniciação Científica</strong><br>
+                <code style="color: #ffa726; font-size: 0.8em;">Análise de Big Data</code>
+                <br><br>
+                <img src="https://img.shields.io/badge/Focus-Data%20Science-blue?style=flat-square" />
+                <img src="https://img.shields.io/badge/Tool-Jupyter-orange?style=flat-square&logo=jupyter" />
+              </td>
+            </tr>
+          </table>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Ericdelucas/ESC_Semestre2_PI">
+          <table border="1" cellspacing="0" cellpadding="10" style="border-collapse: collapse; border: 2px solid #00A884; border-radius: 10px; background-color: #0d1117; width: 320px; height: 180px;">
+            <tr>
+              <td align="left">
+                <img align="right" src="https://cdn-icons-png.flaticon.com/512/1189/1189132.png" width="40" />
+                <strong style="color: #00A884; font-size: 1.1em;">Lideranças Empáticas</strong><br>
+                <code style="color: #72efdd; font-size: 0.8em;">Semestre 2 CC</code>
+                <br><br>
+                <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+                <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+              </td>
+            </tr>
+          </table>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Ericdelucas/Esc--Maya-Yoshiko-Yamamoto">
+          <table border="1" cellspacing="0" cellpadding="10" style="border-collapse: collapse; border: 2px solid #4682B4; border-radius: 10px; background-color: #0d1117; width: 320px; height: 180px;">
+            <tr>
+              <td align="left">
+                <img align="right" src="https://cdn-icons-png.flaticon.com/512/2966/2966327.png" width="40" />
+                <strong style="color: #4682B4; font-size: 1.1em;">Clínica Maya - RPG</strong><br>
+                <code style="color: #87CEEB; font-size: 0.8em;">Semestre 3 CC</code>
+                <br><br>
+                <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+                <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white" />
+              </td>
+            </tr>
+          </table>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
