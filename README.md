@@ -232,8 +232,14 @@ My name is Eric De Lucas, I am 20 years old and I am from São Paulo. I complete
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" 
 />
 
-
-
+<img 
+    align="left" 
+    alt="Android Studio" 
+    title="Android Studio" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/android-studio-icon.png" 
+/>
 
 <br>
 </details>
@@ -297,6 +303,8 @@ My name is Eric De Lucas, I am 20 years old and I am from São Paulo. I complete
     </a>  
   </div>
 
+  
+
 
 
 
@@ -317,8 +325,8 @@ My name is Eric De Lucas, I am 20 years old and I am from São Paulo. I complete
 />
 </div>
 
-<!--
 ---
+<!--
 
 <details>
 <summary><strong>Top Repositories</strong></summary>
