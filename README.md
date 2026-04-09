@@ -108,6 +108,17 @@ My name is Eric De Lucas, I am 20 years old and I am from São Paulo. I complete
     src="https://skillicons.dev/icons?i=nodejs" 
 />
 
+<img 
+    align="left" 
+    alt="FastAPI" 
+    title="FastAPI" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/user-attachments/assets/a71b52d1-9a29-47ed-a982-6bf7db608199"
+/>
+
+
+
 
 
 <br/>
