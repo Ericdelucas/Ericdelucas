@@ -339,14 +339,14 @@ My name is Eric De Lucas, I am 20 years old and I am from São Paulo. I complete
 ---
 
 
-<details>
+<!-- <details>
 <summary><strong>Top Repositories</strong></summary>
 
 <a href="https://github.com/Ericdelucas/ESC_Semestre2_PI">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ericdelucas&repo=ESC_Semestre2_PI&theme=cobalt&bg_color=000000&title_color=4682B4&text_color=4682B4&icon_color=4682B4" />
 </a>
 
-</details>
+</details> -->
 
 
 
