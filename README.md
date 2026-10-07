@@ -298,7 +298,15 @@ My name is Eric De Lucas, I am 20 years old and I am from São Paulo. I complete
 </details>
 
 
-<!--
+
+
+
+
+
+
+
+
+
 
 ---
 
@@ -331,12 +339,6 @@ My name is Eric De Lucas, I am 20 years old and I am from São Paulo. I complete
 ---
 
 
-
-
-
-
-
-
 <details>
 <summary><strong>Top Repositories</strong></summary>
 
@@ -347,7 +349,22 @@ My name is Eric De Lucas, I am 20 years old and I am from São Paulo. I complete
 </details>
 
 
--->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <div align="center">
   <table border="0">
