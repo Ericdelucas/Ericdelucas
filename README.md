@@ -330,15 +330,20 @@ My name is Eric De Lucas, I am 20 years old and I am from São Paulo. I complete
 
 ---
 
+<details>
 
-<img 
+![Snake animation](https://raw.githubusercontent.com/Ericdelucas/Ericdelucas/output/github-contribution-grid-snake-dark.svg)
+
+</details>
+
+<!-- <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=Ericdelucas&bg_color=000000&color=4682B4&line=4682B4&point=4682B4&area=true&hide_border=false" 
     height="300" 
     alt="Activity Graph" 
 />
-</div>
+</div> -->
 
----
+
 
 
 <!-- <details>
