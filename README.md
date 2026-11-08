@@ -68,6 +68,14 @@ My name is Eric De Lucas, I am 20 years old and I am from São Paulo. I complete
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
 />
 
+<img 
+    align="left" 
+    alt="TypeScript" 
+    title="TypeScript" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" 
+/>
 
 <img 
     align="left" 
@@ -77,6 +85,8 @@ My name is Eric De Lucas, I am 20 years old and I am from São Paulo. I complete
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" 
 />
+
+
 
 
 <br/>
@@ -121,8 +131,6 @@ My name is Eric De Lucas, I am 20 years old and I am from São Paulo. I complete
 
 
 
-
-
 <br/>
 <br/>
     
@@ -133,6 +141,15 @@ My name is Eric De Lucas, I am 20 years old and I am from São Paulo. I complete
 
 <details>
 <summary><strong>⚙️ Tools & Platforms</strong></summary>
+
+<img 
+    align="left" 
+    alt="Linux" 
+    title="Linux" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" 
+/>
 
 <img 
     align="left" 
@@ -253,6 +270,16 @@ My name is Eric De Lucas, I am 20 years old and I am from São Paulo. I complete
     style="padding-right: 10px;" 
     src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/android-studio-icon.png" 
 />
+
+<img 
+    align="left" 
+    alt="NodeJS" 
+    title="NodeJS" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" 
+/>
+
 
 <br>
 </details>
